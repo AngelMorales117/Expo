@@ -7,9 +7,14 @@
     <!-- estilos a utilizar -->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="../css/mainEdwin.css">
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/main.css">
-    <link rel="stylesheet" href="../css/mainEdwin.css">
+    <link rel="stylesheet" href="../css/register.css">
+    <link rel="stylesheet" href="../css/font-awesomeq.css">
+    <link href="../css/bootstrap-social.css" rel="stylesheet">
+    <link href="../css/docs.css" rel="stylesheet" >
+
 
 
 </head>
@@ -29,9 +34,19 @@
         
          <img id="Imagenco" src="../img/Blog/Consuma.png" class="col-xs-12 col-md-12 col-lg-12 ">
         <br><p class="espacio">.</p>
-        <br><p class="text-left entrada">Este próxima semana estaremos paletizando CIFCO. Como parte de la feria "El Mercadito" compartiremos nuestros productos y sobre todos nuestra ideologia ecologica y amigable al medio ambiente, nuestro objetivo principal a la hora de fundar nuestra empresa.<a href="#" class="hidden-lg hidden.md">Ver Más</a></p> <p class="text-left entrada hidden-xs">Disfruta de toda la feria, habrá comida, música, lindas edecanes y muchas otras cosas más. Este domingo 20 de Marzo de 2016 en CIFCO, desde las 9 de la mañana hasta las 9 de la noche con un gran cierre de evento acompañados de la Orquesta platinum y buena música. Ven, paletizemos CIFCO.</p><br>
+        <br><p class="text-left entrada">Este próxima semana estaremos paletizando CIFCO. Como parte de la feria "El Mercadito" compartiremos nuestros productos y sobre todos nuestra ideologia ecologica y amigable al medio ambiente, nuestro objetivo principal a la hora de fundar nuestra empresa.<a href="#" class="hidden-lg hidden.md">Ver Más</a></p> <p class="text-left entrada hidden-xs">Disfruta de toda la feria, habrá comida, música, lindas edecanes y muchas otras cosas más. Este domingo 20 de Marzo de 2016 en CIFCO, desde las 9 de la mañana hasta las 9 de la noche con un gran cierre de evento acompañados de la Orquesta platinum y buena música. Ven, paletizemos CIFCO.</p>       <hr>
+       <div class="form-group entrada">
+                        <label for="pwd">Comenta</label>
+                        <textarea class="form-control" id="pwd" rows="2" name="comment" placeholder="Te responderemos lo mas antes posible" >
+                        </textarea>
+        </div>
+        <button class="btn btn-hola entrada">Enviar comentario</button>
 
-       
+        <a class=" col-sm-3 col-xs-3 btn  btn-social detalle btn-facebook entrada center-block text-center">
+                      <span class="fa fa-facebook text-center"></span> Comparte con facebook
+                    </a>
+        <br>
+        <br> <br>
         
        
 </div>

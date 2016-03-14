@@ -50,10 +50,10 @@
 			<div class="col-sm-2 col-md-2 postz" id="">
 				<ul class="nav nav-pills nav-stacked" id="menuVertical">
 					<li class="active item " id="mobos"><a href="#" class="categoria">Todos</a></li>
-					<li class="item" id="pros"> <a href="#">Recuerdos</a></li>
-					<li class="item"> <a href="#">Centros de Mesa</a></li>
-					<li class="item"> <a href="#">Exteriores</a></li>
-					<li class="item"> <a href="#">Otros</a></li>
+					<li class="item" id="pros"> <a href="#">Habitación</a></li>
+					<li class="item"> <a href="#">Salas</a></li>
+					<li class="item"> <a href="#">Jardin</a></li>
+					<li class="item"> <a href="#">Muebles</a></li>
 					
 				</ul>
 			
@@ -95,7 +95,7 @@
 					      <img class="imgproducto img-responsive" src="../img/hogar/deco3.png" alt="img-rude">
 					      <div class="caption">
 					        <h3 class="text-center">Niños</h3>
-					        <p class="text-center">Juegueteras , modulos y mas.</p>
+					        <p class="text-center">Juegueteras , modulos, diversión y mas.</p>
 					        <button class="btn btn-hola pull-rigth"><span class="glyphicon glyphicon-shopping-cart"></span></button>
 					        <button type="button" class="btn btn-hola">Conocer más</button>
 					      </div>
@@ -106,7 +106,7 @@
 					      <img class="imgproducto img-responsive" src="../img/hogar/deco4.png" alt="img-rude">
 					      <div class="caption">
 					        <h3 class="text-center">Juego de comedor</h3>
-					        <p class="text-center">Especialmente para tu hogar</p>
+					        <p class="text-center">Especialmente para tu hogar y tu familia</p>
 					        <button class="btn btn-hola pull-rigth"><span class="glyphicon glyphicon-shopping-cart"></span></button>
 					        <button type="button" class="btn btn-hola">Conocer más</button>
 					      </div>

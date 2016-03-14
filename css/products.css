@@ -7,6 +7,7 @@
 #boda
 {
 	margin-top: 80px;
+	margin-bottom: 10px;
 	
 }
 .detalle{
@@ -18,7 +19,8 @@
 }
 .detallet{
 	margin-left: 15px;
-	width: 86%;
+	width: 90%;
+	margin-bottom: 10px;
 }
 .imagencita
 {
