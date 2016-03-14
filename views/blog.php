@@ -42,7 +42,7 @@
         
          <img id="Imagenco" src="../img/Blog/Consuma.png" class="col-xs-12 col-md-12 col-lg-12 ">
         <br><p class="espacio">.</p>
-        <h4 class="text-center"><a href="#">¡Comparte en CIFCO con nosotros!</a></h4>
+        <h4 class="text-center"><a href="../blogs/noticia1.php">¡Comparte en CIFCO con nosotros!</a></h4>
         <br><p class="text-left entrada">Este próxima semana estaremos paletizando CIFCO. Como parte de la feria "El Mercadito" compartiremos nuestros productos y sobre todos nuestra ideologia ecologica y amigable al medio ambiente, nuestro objetivo principal a la hora de fundar nuestra empresa.<a href="#" class="hidden-lg hidden.md">Ver Más</a></p> <p class="text-left entrada hidden-xs">Disfruta de toda la feria, habrá comida, música, lindas edecanes y muchas otras cosas más. Este domingo 20 de Marzo de 2016 en CIFCO, desde las 9 de la mañana hasta las 9 de la noche con un gran cierre de evento acompañados de la Orquesta platinum y buena música. Ven, paletizemos CIFCO.</p><br>
 
         <img id="Imagenco" src="../img/Blog/Consuma.png" class="col-xs-12 col-md-12 col-lg-12 ">

@@ -125,3 +125,9 @@ paso de imagen a imagen
               transform: translate3d(0, 0, 0);
     }
 }
+button > a{
+  color: white;
+}
+button > a:hover{
+  color: white;
+}

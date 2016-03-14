@@ -16,21 +16,21 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos<span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="ecopet.php">Eco-Pet</a></li>
-                    <li><a href="hogar.php">Hogar</a></li>
-                    <li><a href="#">Oficinas</a></li>
-                    <li><a href="bodas.php">Bodas</a></li>
-                    <li><a href="decoracion.php">Decoración</a></li>
+                    <li><a href="../views/ecopet.php">Eco-Pet</a></li>
+                    <li><a href="../views/hogar.php">Hogar</a></li>
+                    <li><a href="../views/oficina.php">Oficinas</a></li>
+                    <li><a href="../views/bodas.php">Bodas</a></li>
+                    <li><a href="../views/decoracion.php">Decoración</a></li>
                   </ul>
                 </li>
 
                 <!-- dropdown de blog -->
-                <li><a href="blog.php" role="button">Blog</a>
+                <li><a href="../views/blog.php" role="button">Blog</a>
                 </li>
                 
                 <!--Dropdown de quienes somos -->
                 <li class="dropdown">
-                  <a href="quienes.php" role="button">Quienes Somos</span></a>
+                  <a href="../views/quienes.php" role="button">Quienes Somos</span></a>
                 </li>
 
                 <!-- dropdown de blog -->
@@ -38,12 +38,12 @@
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contactanos<span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <li><a href="#" data-toggle="modal" data-target="#help">Formulario de Contacto</a></li>
-                    <li><a href="ask.php">Preguntas Frecuentes</a></li>
+                    <li><a href="../views/ask.php">Preguntas Frecuentes</a></li>
                   </ul>
                 </li>
                                  
-                <li><a href="login.php">Iniciar Sesión</a></li>
-                <li><a href="register.php">Registrate</a></li>
+                <li><a href="../views/login.php">Iniciar Sesión</a></li>
+                <li><a href="../views/register.php">Registrate</a></li>
               </ul>
             </div>
           </div>

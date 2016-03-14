@@ -194,7 +194,7 @@
             <h5 class="text-center">¿Tienes ideas en tu cabeza que quieras hacer realidad? Nosotros te ayudamos a darle vida a tus ideas con calidad y valores que nos identifican. Aquí puedes cotizar tus proyectos.</h5>
           </div>
           <div class="col-lg-3 col-md-3 col-xs-6"><br>
-            <button class="btn btn-hola col-lg-12 col-md-12 col-xs-12 col-sm-12 holiwis">Cotiza</button>
+            <button class="btn btn-hola col-lg-12 col-md-12 col-xs-12 col-sm-12 holiwis"><a href="views/cotiza.php">Cotiza</a></button>
           </div>
         </div>
         <br>

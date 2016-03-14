@@ -16,5 +16,5 @@ function comprar(){
 
 /*cancela pedido y redirreciona al catalogo de productos*/
 function cancelar(){
-		 window.location.assign('products.php');
+		 window.location.assign('hogar.php');
 }

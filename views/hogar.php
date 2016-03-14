@@ -7,7 +7,11 @@
 	<link rel="stylesheet" href="../css/bootstrap-theme.min.css">
 	<link rel="stylesheet" type="text/css" href="../css/products.css">
 	<link rel="stylesheet" type="text/css" href="../css/nav.css">
-		<link rel="stylesheet" type="text/css" href="../css/main.css">
+	<link rel="stylesheet" type="text/css" href="../css/main.css">
+	<link rel="stylesheet" href="../css/register.css">
+  	<link rel="stylesheet" href="../css/font-awesomeq.css">
+    <link href="../css/bootstrap-social.css" rel="stylesheet">
+    <link href="../css/docs.css" rel="stylesheet" >
 	
 </head>
 
@@ -15,8 +19,10 @@
 
 
 <!--Barra de navegación-->
-
+	
   <?php include 'nav.php'; ?>
+  <!--Descripción-->
+  <?php include 'detalle.php'; ?>
   <!--Encabezado-->
 <div class="container imagencita">
 	<div class="row">

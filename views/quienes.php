@@ -98,8 +98,8 @@
 
           
           <h2 id="green">Nuestro servicio</h2>
-          <img class="col-xs-12 col-md-12 col-lg-12" src="../img/QUIENES/domicilio.png" alt="Domiciio">
-            <p class="center">
+          <img class="col-xs-12 col-md-12 col-lg-12" src="../img/f.png" alt="Domiciio">
+            <p class="text-left">
               1- Haz tu pedido por teléfono
               <br>
               2- Debes pagar un anticipo
@@ -121,8 +121,8 @@
     </div>
      
 
-</div>
-  </section>
+</div><br>
+  </section><br>
 
     <?php include 'footer.php'; ?>
 
