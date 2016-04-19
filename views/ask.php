@@ -25,8 +25,6 @@
                 <h1 class="text-center">Preguntas Frecuentes</h1><br>
               </div>
               <br>              
-              <img id="f" src="../img/f.png" class="img-responsive">
-                <br><p class="espacio">.</p>
                 <h3 class="text-left marginadito">¿Todo lo que hacemos es ecologico?</h3>
                 <p class="text-left entrada "><h4 class="marginadito">Todos nuestros productos son 100% ecologicos para ayudar al medio ambiente y ademas hacerlos que tengan un diseño unico y mas elegante.</h4></p>
 

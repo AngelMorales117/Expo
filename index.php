@@ -7,6 +7,7 @@
   <link href='https://fonts.googleapis.com/css?family=Old+Standard+TT' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/nav.css">
+  <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
@@ -100,9 +101,9 @@
   </div>
 </div>
 
-    
+<div class="animated zoomIn">
     <!--Encabezado-->
-    <div class="container-fluid inicio">
+    <div class="container-fluid inicio ">
       <div class="row">
       <!--Imagen del Encabezado-->
         <img src="img/Logos/logo2.png" alt="" class="img-responsive col-xs-12 col-sm-4 col-md-4">
@@ -200,6 +201,7 @@
         <br>
       </div>
     </section>
+    </div>
 
     <!--footer-->
   <br>

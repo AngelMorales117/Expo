@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/mainEdwin.css">
 
 
@@ -16,6 +17,7 @@
 <body>
     <!-- Barra de navegación -->
     <?php include 'nav.php'; ?>
+ <div class="animated zoomIn">
 
     <!--Blog-->
     <div class="container vcenter">
@@ -28,8 +30,7 @@
 
 
 
-        <div>
-
+       
   <!-- Nav tabs -->
   <ul class="nav nav-tabs nav-justified" role="tablist">
     <li role="presentation" class="active"><a href="#Noticias" aria-controls="Noticias" role="tab" data-toggle="tab">Noticias</a></li>

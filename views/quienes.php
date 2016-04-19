@@ -10,6 +10,7 @@
     <link href="../css/docs.css" rel="stylesheet" >
     <link href="../css/main.css" rel="stylesheet" >
     <link href="../css/nav.css" rel="stylesheet" >
+    <link href="../css/animate.css" rel="stylesheet" >
   </head>
 
   <body>
@@ -19,9 +20,7 @@
   <?php include 'nav.php'; ?>
 
   <!--Cuerpo de Login -->
-   
-   <br>
-   <br>
+   <div class="animated zoomIn">
    <br>
    <br>
   <section class="inicio seccion">
@@ -123,6 +122,7 @@
 
 </div><br>
   </section><br>
+  </div>
 
     <?php include 'footer.php'; ?>
 

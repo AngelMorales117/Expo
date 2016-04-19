@@ -8,8 +8,6 @@
 			</div>
 			<div class="modal-body">
 				
-				<img class="img-responsive" src="../img/Logos/logo1.png" alt="img-rude">
-				
 				<h3 class="text-center">Estamos encantados en ayudarte</h3>
 				<!-- formulario de ingreso de duda-->
 				<form role="form">
