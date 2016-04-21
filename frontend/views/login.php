@@ -20,64 +20,43 @@
   <!--Cuerpo de Login -->
    
   
-  <section class="seccion vcenter"><br>
-    <div class="container-fluid logincontent inicio">    
-      <div class="col-xs-12 col-md-6 col-md-offset-3">
-        <div class="thumbnail card">
-          <img src="../img/logos/laca1.png" alt="img-rude">
-          <div class="caption">
-            <h3 class="text-center">Tu cuenta</h3>
-            <p class="text-center">Inicia sesión para poder contar con todos los servicios que te ofrecemos.</p>
-          </div>
-        </div>
+  <section class="seccion vcenter">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+        <img src="../img/logos/laca1.png" alt="" class="img-responsive img-rounded">
       </div>
-      <div id="loginbox" class="col-xs-12  col-md-6 col-md-offset-3">
-        <div class="row">
-         <h2 id="title" class="color-white text-center">Iniciar Sesion</h2>
-       </div>
-       <div class="panel-body" >
-        <form id="loginform" class="form-horizontal" role="form">
-          <div class="input-group">
-            <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-            <input id="login-username" type="text" class="form-control" name="username" value="" placeholder="correo electronico">
-          </div>
+      <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+        <h2 class="text-center">Inicio de Sesión</h2>
+        <br>
+        <div class="form-group">
+                <label for=" email"><p class="color-white">Correo electrónico</p></label>
+                <input type="email" class="form-control" id="email" placeholder="correo electronico">
+        </div>
+        <div class="form-group">
+                <label for=" pwd"><p class="color-white">Contraseña</p></label>
+                <input type="password" class="form-control" id="pwd" placeholder="Escriba una contraseña">
+        </div>
 
-          <div  class="input-group">
-            <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
-            <input id="login-password" type="password" class="form-control" name="password" placeholder="Contraseña">
-          </div>      
-          <div class="input-group">
-            <div class="checkbox">
-              <label>
-               <input id="login-remember" type="checkbox" name="remember" value="1"> Recordar Contraseña
-             </label>
-           </div>
-         </div>
-         <div  class="form-group">
-           <div class="col-sm-12 col-xs-12 controls"><br>
-            <button class="col-sm-12 btn btn-hola center-block">Iniciar Sesión</button>
-            <br>
-            <br>
-            <div class="col-sm-12 controls">
-                  <a class=" col-sm-5 btn  btn-social btn-facebook center-block text-center">
-                      <span class="fa fa-facebook text-center"></span> Iniciar con facebook
+        <div class="col-sm-12 controls">
+                  <button class="btn col-sm-12 btn-hola center-block">Registrame</button>
+                </div>
+                <br>
+                <br>
+                <div class="col-sm-12 controls">
+                  <a class=" col-sm-5 btn  btn-social btn-facebook center-block ">
+                      <span class="fa fa-facebook"></span> Registrarme con facebook
                     </a>
                     <div class="col-sm-2"></div>
-                    <a class="col-xs-12  col-sm-5 btn  btn-social btn-google text-center ">
-                      <span class="fa fa-google text-center"></span> Iniciar con google
+                    <a class="col-xs-12  col-sm-5 btn  btn-social btn-google center ">
+                      <span class="fa fa-google"></span> Registrarme con google
                     </a>
                 </div>
-            <div class="col-sm-12">
-              
-            </div>
-          </div>
-        </div>
-      </form>
+
+      </div>
     </div>
-  </div>
-</div>
-</div>
-</section>
+  </div> 
+  </section>
 <br>
 <?php include 'footer.php'; ?>
 <!--footer-->

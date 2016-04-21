@@ -54,11 +54,11 @@ section{
 	color: white;
 }
 .btn-hola:hover{
-	background-color: #3498db;
+	background-color: #A76328;
 	color: white;
 }
 .btn-hola:active{
-	background-color: #3498db;
+	background-color: #A76328;
 	color: white;
 }
 .btn-hola:focus{
@@ -73,18 +73,18 @@ section{
 }
 
 .btn-hola-carrito:hover{
-	background-color: #3498db;
+	background-color: #A76328;
 	color: white;
 }
 .btn-hola-carrito:active{
-	background-color: #3498db;
+	background-color: #A76328;
 	color: white;
 }
 .btn-hola-carrito:focus{
 	color: white;
 }
 .btn-hola-carrito-active{
-	background-color: #3498db;
+	background-color: #A76328;
 	color: white;
 }
 
