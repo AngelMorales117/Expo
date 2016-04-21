@@ -106,13 +106,9 @@
 <br>
 
 <!--Footer-->
-<div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-offset-2 col-lg-8 col-sm-offset-1 col-sm-10">
+
                 <?php include 'footer.php'; ?>
-            </div>
-        </div>
-    </div>
+
 <!--fin del DOM-->
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>

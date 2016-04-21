@@ -22,7 +22,7 @@
               </button>
               <!--Marca del nav -->
               <a href="#" class="navbar-brand"><img src="img/logos/logo1.png" class="img-responsive marca" alt="Responsive image"></a>
-            </div>
+            </div><strong>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="../index.php">Home</a></li>
@@ -59,7 +59,7 @@
                 <li><a href="views/login.php">Iniciar Sesión</a></li>
                 <li><a href="views/register.php">Registrate</a></li>
               </ul>
-            </div>
+            </div></strong>
           </div>
         </nav>
         <!--Modales-->
@@ -194,8 +194,8 @@
           <div class="col-lg-offset-3 col-lg-3 col-md-offset-3 col-md-3 col-xs-6"><br>
             <h5 class="text-center">¿Tienes ideas en tu cabeza que quieras hacer realidad? Nosotros te ayudamos a darle vida a tus ideas con calidad y valores que nos identifican. Aquí puedes cotizar tus proyectos.</h5>
           </div>
-          <div class="col-lg-3 col-md-3 col-xs-6"><br>
-            <button class="btn btn-hola col-lg-12 col-md-12 col-xs-12 col-sm-12 holiwis"><a href="views/cotiza.php">Cotiza</a></button>
+          <div class="col-lg-3 col-md-3 col-xs-6"><br><br>
+            <a href="views/cotiza.php" class="btn btn-hola col-lg-8 col-md-8 col-sm-8 col-xs-8 text-center"><strong>Cotiza</strong></a>
           </div>
         </div>
         <br>

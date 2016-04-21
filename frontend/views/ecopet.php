@@ -64,7 +64,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3  text-center box">
 						<div class="thumbnail">
 
-					      <img class="imgproducto img-responsive"  src="../img/Eco-pet/eco1.png" alt="img-rude">
+					      <img class="imgproducto img-responsive"  src="../img/eco-pet/eco1.png" alt="img-rude">
 					      <div class="caption">
 					        <h3 class="text-center">Diseño clasico</h3>
 					        <p class="text-center">Diseños contemporaneos usualmente utilizados</p>
@@ -75,7 +75,7 @@
 					</div>
 					<div class="col-xs-6 col-sm-4 col-md-3 text-center box">
 						<div class="thumbnail">
-					      <img class="imgproducto img-responsive" src="../img/Eco-pet/eco2.png" alt="img-rude">
+					      <img class="imgproducto img-responsive" src="../img/eco-pet/eco2.png" alt="img-rude">
 					      <div class="caption">
 					        <h3 class="text-center">Caricatura design</h3>
 					        <p class="text-center">Casas construidas en base a caricaturas.</p>
@@ -86,7 +86,7 @@
 					</div>
 					<div class="col-xs-6 col-sm-4 col-md-3 text-center box">
 						<div class="thumbnail">
-					      <img class="imgproducto img-responsive" src="../img/Eco-pet/eco3.png" alt="img-rude">
+					      <img class="imgproducto img-responsive" src="../img/eco-pet/eco3.png" alt="img-rude">
 					      <div class="caption">
 					        <h3 class="text-center">Linea Basica</h3>
 					        <p class="text-center">Sobriedad y buen gusto en una sola inversion.</p>
@@ -97,7 +97,7 @@
 					</div>
 						<div class="col-xs-6 col-sm-4 col-md-3 text-center box">
 						<div class="thumbnail">
-					      <img class="imgproducto img-responsive" src="../img/Eco-pet/eco4.png" alt="img-rude">
+					      <img class="imgproducto img-responsive" src="../img/eco-pet/eco4.png" alt="img-rude">
 					      <div class="caption">
 					        <h3 class="text-center">Casas medianas</h3>
 					        <p class="text-center">Ideal para mascotas de tamaños promedio.</p>
@@ -111,7 +111,7 @@
 				<div class="row">
 					<div class="col-xs-6 col-sm-4 col-md-3 text-center box">
 						<div class="thumbnail">
-					      <img class="imgproducto img-responsive" src="../img/Eco-pet/eco5.png" alt="img-rude">
+					      <img class="imgproducto img-responsive" src="../img/eco-pet/eco5.png" alt="img-rude">
 					      <div class="caption">
 					        <h3 class="text-center">Linea Deluxe</h3>
 					        <p class="text-center">Diseñada con acabados de lujo y materiales premium.</p>
@@ -122,7 +122,7 @@
 					</div>
 					<div class="col-xs-6 col-sm-4 col-md-3 text-center box">
 							<div class="thumbnail">
-						      <img class="imgproducto img-responsive" src="../img/Eco-pet/eco6.png" alt="img-rude">
+						      <img class="imgproducto img-responsive" src="../img/eco-pet/eco6.png" alt="img-rude">
 						      <div class="caption">
 						        <h3 class="text-center">Muebles y camas</h3>
 						        <p class="text-center">Construida para brindar la maxima comodidad a tu mascota.</p>
@@ -133,7 +133,7 @@
 						</div>
 					<div class="col-xs-6 col-sm-4 col-md-3 text-center box">
 							<div class="thumbnail">
-						      <img class="imgproducto img-responsive" src="../img/Eco-pet/eco7.png" alt="img-rude">
+						      <img class="imgproducto img-responsive" src="../img/eco-pet/eco7.png" alt="img-rude">
 						      <div class="caption">
 						        <h3 class="text-center">Casas portatiles</h3>
 						        <p class="text-center">Creando un ambiente inigualable en cualquier lugar</p>
@@ -144,7 +144,7 @@
 						</div>
 					<div class="col-xs-6 col-sm-4 col-md-3 text-center box">
 							<div class="thumbnail">
-						      <img class="imgproducto img-responsive" src="../img/Eco-pet/eco8.png" alt="img-rude">
+						      <img class="imgproducto img-responsive" src="../img/eco-pet/eco8.png" alt="img-rude">
 						      <div class="caption">
 						        <h3 class="text-center">Casa personalizada</h3>
 						        <p class="text-center">Tu idea convertida en realidad con la mayor calidad</p>

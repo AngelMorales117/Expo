@@ -8,7 +8,7 @@
               </button>
               <!--Marca del nav -->
               <a href="#" class="navbar-brand"><img src="../img/logos/logo1.png" class="img-responsive marca" alt="Responsive image"></a>
-            </div>
+            </div><strong>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="../index.php">Home</a></li>
@@ -45,7 +45,7 @@
                 <li><a href="../views/login.php">Iniciar Sesión</a></li>
                 <li><a href="../views/register.php">Registrate</a></li>
               </ul>
-            </div>
+            </div></strong>
           </div>
         </nav>
 
