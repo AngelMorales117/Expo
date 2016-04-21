@@ -26,7 +26,7 @@
 			<br>
 			<div class="col-xs-12 col-md-6 col-md-offset-6 col-lg-4 col-lg-offset-1">
 					<div class="thumbnail card">
-						<img src="../img/Logos/laca1.png" alt="" class="img-responsive registrar">
+						<img src="../img/logos/laca1.png" alt="" class="img-responsive registrar">
 						<div class="caption">
 							<h3 class="text-center">Tu cuenta</h3>
 							<p class="text-center">¡Sé parte de nuestra página para enterarte de nuestras novedades!</p>

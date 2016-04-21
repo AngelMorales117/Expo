@@ -74,7 +74,7 @@
       </div>
       <div class="modal-body">
         
-        <img class="img-responsive" src="img/Logos/logo1.png" alt="img-rude">
+        <img class="img-responsive" src="img/logos/logo1.png" alt="img-rude">
         
         <h3 class="text-center">Estamos encantados en ayudarte</h3>
         <!-- formulario de ingreso de duda-->
@@ -106,7 +106,7 @@
     <div class="container-fluid inicio ">
       <div class="row">
       <!--Imagen del Encabezado-->
-        <img src="img/Logos/logo2.png" alt="" class="img-responsive col-xs-12 col-sm-4 col-md-4">
+        <img src="img/logos/logo2.png" alt="" class="img-responsive col-xs-12 col-sm-4 col-md-4">
         <div class="col-lg-12 col-sm-7 col-md-4 col-lg-4"><br><br class="hidden-xs hidden-sm hidden-md"><br class="hidden-xs hidden-sm hidden-md"><br class="hidden-xs hidden-sm">
 
         <!--Parrafo del encabezado-->
@@ -118,13 +118,13 @@
           
           <div class="carousel-inner" role="listbox">
             <div class="item active">
-            <img src="img/Hogar/sofa.png" alt="Imagen1">
+            <img src="img/hogar/sofa.png" alt="Imagen1">
                 <div class="carousel-caption">
                 <p>Muebles unicos para tu jardin y hogar.</p>
                 </div>
             </div>
             <div class="item">
-            <img src="img/Decoracion/Libreria.png" alt="Imagen2">
+            <img src="img/decoracion/Libreria.png" alt="Imagen2">
             <div class="carousel-caption">
                 <p>Decora tus paredes vacias y planas.</p>
                 </div>
@@ -133,7 +133,7 @@
             <div class="carousel-caption">
                 <p>Emprendimiento nacional.</p>
                 </div>
-            <img src="img/Logos/laca1.png" alt="Imagen3">
+            <img src="img/logos/laca1.png" alt="Imagen3">
             </div>
         </div>
 
@@ -162,28 +162,28 @@
             <h2 class="text-center">¿Qué te ofrecemos?</h2><br>
           </div>
             <div class="col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-4">
-              <br><img src="img/Bodas/boda3.jpg" alt="" class="img-responsive hommie">
+              <br><img src="img/bodas/boda3.jpg" alt="" class="img-responsive hommie">
               <h4 class="text-center">Bodas</h4>
               <p class="text-center">La mejor decoración especial para tus eventos especiales y de tu familia.</p><br class="hidden-sm hidden-md hidden-lg">
             </div>
             <div class="col-lg-2 col-md-2 col-sm-4">
-              <br><img src="img/Hogar/sofa.jpg" alt="" class="img-responsive hommie">
+              <br><img src="img/hogar/sofa.jpg" alt="" class="img-responsive hommie">
               <h4 class="text-center">Hogar</h4>
               <p class="text-center">Paletiza esos rincones vacios que tienes en tu hogar con muebles unicos.</p>
               <br class="hidden-sm hidden-md hidden-lg">
             </div>
             <div class="col-lg-2 col-md-2 col-sm-4">
-              <br><img src="img/Oficina/escritorio.jpg" alt="" class="img-responsive hommie">
+              <br><img src="img/oficina/escritorio.jpg" alt="" class="img-responsive hommie">
               <h4 class="text-center">Oficina</h4>
               <p class="text-center">Amuebla tu oficina con un diseño moderno, innvodor y comodo para tu día a día.</p><br class="hidden-sm hidden-md hidden-lg">
             </div>
             <div class="col-lg-2 col-md-2 col-sm-offset-1 col-md-offset-0 col-lg-offset-0  col-sm-4">
-              <br><img src="img/Eco-Pet/ejemplo.jpg" alt="" class="img-responsive hommie">
+              <br><img src="img/eco-Pet/ejemplo.jpg" alt="" class="img-responsive hommie">
               <h4 class="text-center">Eco-Pet</h4>
               <p class="text-center">Conciente a tu mascotas con productos para ellos y amigables al medio ambiente</p>
             </div>
             <div class="col-lg-2 col-md-2 col-sm-offset-2 col-md-offset-0 col-lg-offset-0 col-sm-4">
-              <br><img src="img/Decoracion/ejemplod.jpg" alt="" class="img-responsive hommie">
+              <br><img src="img/decoracion/ejemplod.jpg" alt="" class="img-responsive hommie">
               <h4 class="text-center">Decoración</h4>
               <p class="text-center">Los mejores elementos para decorar ecologicamente tus inmuebles.</p>
             </div>

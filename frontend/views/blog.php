@@ -41,12 +41,12 @@
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane fade in active " id="Noticias">
         
-         <img id="Imagenco" src="../img/Blog/Consuma.png" class="col-xs-12 col-md-12 col-lg-12 ">
+         <img id="Imagenco" src="../img/blog/Consuma.png" class="col-xs-12 col-md-12 col-lg-12 ">
         <br><p class="espacio">.</p>
         <h4 class="text-center"><a href="../blogs/noticia1.php">¡Comparte en CIFCO con nosotros!</a></h4>
         <br><p class="text-left entrada">Este próxima semana estaremos paletizando CIFCO. Como parte de la feria "El Mercadito" compartiremos nuestros productos y sobre todos nuestra ideologia ecologica y amigable al medio ambiente, nuestro objetivo principal a la hora de fundar nuestra empresa.<a href="#" class="hidden-lg hidden.md">Ver Más</a></p> <p class="text-left entrada hidden-xs">Disfruta de toda la feria, habrá comida, música, lindas edecanes y muchas otras cosas más. Este domingo 20 de Marzo de 2016 en CIFCO, desde las 9 de la mañana hasta las 9 de la noche con un gran cierre de evento acompañados de la Orquesta platinum y buena música. Ven, paletizemos CIFCO.</p><br>
 
-        <img id="Imagenco" src="../img/Blog/Consuma.png" class="col-xs-12 col-md-12 col-lg-12 ">
+        <img id="Imagenco" src="../img/blog/Consuma.png" class="col-xs-12 col-md-12 col-lg-12 ">
         <br><p class="espacio">.</p>
         <h4 class="text-center"><a href="#">¡Comparte en CIFCO con nosotros!</a></h4>
         <br><p class="text-left entrada">Este próxima semana estaremos paletizando CIFCO. Como parte de la feria "El Mercadito" compartiremos nuestros productos y sobre todos nuestra ideologia ecologica y amigable al medio ambiente, nuestro objetivo principal a la hora de fundar nuestra empresa.<a href="#" class="hidden-lg hidden.md">Ver Más</a></p> <p class="text-left entrada hidden-xs">Disfruta de toda la feria, habrá comida, música, lindas edecanes y muchas otras cosas más. Este domingo 20 de Marzo de 2016 en CIFCO, desde las 9 de la mañana hasta las 9 de la noche con un gran cierre de evento acompañados de la Orquesta platinum y buena música. Ven, paletizemos CIFCO.</p><br>
@@ -57,13 +57,13 @@
     </div>
     <div role="tabpanel" class="tab-pane fade" id="Articulos">
         
-         <img src="../img/Blog/articulo1.png" class="col-xs-12 ">
+         <img src="../img/blog/articulo1.png" class="col-xs-12 ">
         <br><p class="espacio">.</p>
         <h4 class="text-center"><a href="#">¿Cómo hacer una banca con palets?</a></h4>
         <br><p class="text-left entrada">Es conveniente tratar la madera de los palets antes de realizar cualquier tipo de decoración con ellos, esta madera puede estar sucia o dañada, además de usarse casi en bruto para abaratar costes, por lo que es una superficie muy porosa.
         <a href="#" class="hidden-lg hidden.md">Ver Más</a></p> <p class="text-left entrada hidden-xs"> No está de más si le aplicamos algún producto para eliminar hongos y bacterias, los palets aunque nos parezca mentira en su vida pueden dar la vuelta al mundo varias veces, y en sus viajes pueden desde haber transportado materiales peligrosos, a estar en países de problemas de salubridad, por lo que yo recomiendo que se  les trate antes de hacerles nada. Lijar la madera, para que no queden astillas, una astilla de un palets es dolorosa cuando se nos introduce en la piel, además si la vamos a utilizar para colocar encima cojines o telas si le quedan astillas se pueden enganchar a ellas.</p>
 
-        <img src="../img/Blog/articulo1.png" class="col-xs-12 ">
+        <img src="../img/blog/articulo1.png" class="col-xs-12 ">
         <br><p class="espacio">.</p>
         <h4 class="text-center"><a href="#">¿Cómo hacer una banca con palets?</a></h4>
         <br><p class="text-left entrada">Es conveniente tratar la madera de los palets antes de realizar cualquier tipo de decoración con ellos, esta madera puede estar sucia o dañada, además de usarse casi en bruto para abaratar costes, por lo que es una superficie muy porosa.
@@ -104,13 +104,9 @@
 <br>
 
 <!--Footer -->
-<div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-offset-2 col-lg-8 col-sm-offset-1 col-sm-10">
+
                 <?php include 'footer.php'; ?>
-            </div>
-        </div>
-    </div>
+
     
 <!--fin del DOM-->
 <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>

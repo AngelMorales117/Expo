@@ -24,7 +24,7 @@
     <div class="container-fluid logincontent inicio">    
       <div class="col-xs-12 col-md-6 col-md-offset-3">
         <div class="thumbnail card">
-          <img src="../img/Logos/laca1.png" alt="img-rude">
+          <img src="../img/logos/laca1.png" alt="img-rude">
           <div class="caption">
             <h3 class="text-center">Tu cuenta</h3>
             <p class="text-center">Inicia sesión para poder contar con todos los servicios que te ofrecemos.</p>
