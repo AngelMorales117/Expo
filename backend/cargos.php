@@ -47,52 +47,23 @@
       <!-- **********************************************************************************************************************************************************
       MAIN CONTENT
       *********************************************************************************************************************************************************** -->
-      <!--main content start-->
-      <section id="main-content">
-          <section class="wrapper">
-          <h3><i class="fa fa-angle-right"></i>Estadisticas del Sitio</h3>
-              <!-- page start-->
-              <div class="tab-pane" id="chartjs">
-                  <div class="row mt">
-                      <div class="col-lg-6">
-                          <div class="content-panel">
-                <h4><i class="fa fa-angle-right"></i> Visitas</h4>
-                              <div class="panel-body text-center">
-                                  <canvas id="doughnut" height="300" width="400"></canvas>
-                              </div>
-                          </div>
-                      </div>
-                      <div class="col-lg-6">
-                          <div class="content-panel">
-                <h4><i class="fa fa-angle-right"></i> Compras</h4>
-                              <div class="panel-body text-center">
-                                  <canvas id="line" height="300" width="400"></canvas>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="row mt">
-                      <div class="col-lg-6">
-                          <div class="content-panel">
-                <h4><i class="fa fa-angle-right"></i> Pedidos</h4>
-                              <div class="panel-body text-center">
-                                  <canvas id="radar" height="300" width="400"></canvas>
-                              </div>
-                          </div>
-                      </div>
-                      <div class="col-lg-6">
-                          <div class="content-panel">
-                <h4><i class="fa fa-angle-right"></i> Cotizaciones</h4>
-                              <div class="panel-body text-center">
-                                  <canvas id="polarArea" height="300" width="400"></canvas>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-              <!-- page end-->
-          </section>          
-      </section><!-- /MAIN CONTENT -->
+      <section class="main-content">
+        <section class="wrapper">
+          <div class="container-fluid">
+            <div class="row">
+              <h4 class="text-center col-lg-12 col-md-12 col-sm-12 col-xs-12">Cargos</h4>
+            </div>
+            <br>
+            <div class="form-group">
+                <label class="col-lg-offset-2 control-label">Cargo</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control round-form">
+                </div>
+            </div>
+          </div>  
+        </section>
+      </section>
+
 
       <?php include 'footer.php'; ?>
       

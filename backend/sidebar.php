@@ -1,12 +1,13 @@
- <!--sidebar start-->
+<!--sidebar start-->
       <aside>
           <div id="sidebar"  class="nav-collapse ">
               <!-- sidebar menu start-->
-              <ul class="sidebar-menu" id="nav-accordion"><br>
+              <ul class="sidebar-menu" id="nav-accordion">
+              
                   <h5 class="centered">Miguel Cumi</h5>
                     
                   <li class="mt">
-                      <a href="index.html">
+                      <a class="active" href="dashboard.php">
                           <i class="fa fa-dashboard"></i>
                           <span>Dashboard</span>
                       </a>
@@ -14,70 +15,60 @@
 
                   <li class="sub-menu">
                       <a href="javascript:;" >
-                          <i class="fa fa-desktop"></i>
+                          <i class="glyphicon glyphicon-shopping-cart"></i>
                           <span>Productos</span>
                       </a>
                       <ul class="sub">
                           <li><a  href="general.html">Categorias</a></li>
-                          <li><a  href="buttons.html">Subcategorias</a></li>
-                          <li><a  href="buttons.html">Productos</a></li>
+                          <li><a  href="buttons.html">Subcategoria</a></li>
+                          <li><a  href="panels.html">Inventario</a></li>
+                          <li><a  href="panels.html">Productos</a></li>
                       </ul>
                   </li>
 
                   <li class="sub-menu">
                       <a href="javascript:;" >
-                          <i class="fa fa-cogs"></i>
-                          <span>Components</span>
+                          <i class="glyphicon glyphicon-user"></i>
+                          <span>Personal</span>
                       </a>
                       <ul class="sub">
-                          <li><a  href="calendar.html">Calendar</a></li>
-                          <li><a  href="gallery.html">Gallery</a></li>
-                          <li><a  href="todo_list.html">Todo List</a></li>
-                      </ul>
-                  </li>
-                  <li class="sub-menu">
-                      <a class="active" href="javascript:;" >
-                          <i class="fa fa-book"></i>
-                          <span>Extra Pages</span>
-                      </a>
-                      <ul class="sub">
-                          <li class="active"><a  href="blank.html">Blank Page</a></li>
-                          <li><a  href="login.html">Login</a></li>
-                          <li><a  href="lock_screen.html">Lock Screen</a></li>
+                          <li><a  href="calendar.html">Personal</a></li>
+                          <li><a  href="cargos.php">Cargos</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
                       <a href="javascript:;" >
-                          <i class="fa fa-tasks"></i>
-                          <span>Forms</span>
+                          <i class="glyphicon glyphicon-list-alt"></i>
+                          <span>Pedidos</span>
                       </a>
                       <ul class="sub">
-                          <li><a  href="form_component.html">Form Components</a></li>
+                          <li><a  href="blank.html">Lista de Pedidos</a></li>
+                          <li><a  href="form_component.html">Cotizaciones</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
                       <a href="javascript:;" >
-                          <i class="fa fa-th"></i>
-                          <span>Data Tables</span>
+                          <i class="glyphicon glyphicon-book"></i>
+                          <span>Clientes</span>
+                      </a>
+                      <ul class="sub">
+                          <li><a  href="form_component.html">Clientes</a></li>
+                          <li><a  href="form_component.html">Carritos</a></li>
+                      </ul>
+                  </li>
+                  <li class="sub-menu">
+                      <a href="javascript:;" >
+                          <i class="glyphicon glyphicon-cog"></i>
+                          <span>Extras</span>
                       </a>
                       <ul class="sub">
                           <li><a  href="basic_table.html">Basic Table</a></li>
                           <li><a  href="responsive_table.html">Responsive Table</a></li>
                       </ul>
                   </li>
-                  <li class="sub-menu">
-                      <a href="javascript:;" >
-                          <i class=" fa fa-bar-chart-o"></i>
-                          <span>Charts</span>
-                      </a>
-                      <ul class="sub">
-                          <li><a  href="morris.html">Morris</a></li>
-                          <li><a  href="chartjs.html">Chartjs</a></li>
-                      </ul>
-                  </li>
-
               </ul>
               <!-- sidebar menu end-->
           </div>
       </aside>
       <!--sidebar end-->
+      
