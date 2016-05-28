@@ -1,7 +1,8 @@
 <?php
-require("../lib/page.php");
-require("../../lib/database.php");
-Page::header("Eliminar categoría");
+require("../pagina.php");
+require("../procesos/database.php");
+require("../procesos/validator.php");
+Page::header("Eliminar cargo");
 
 if(!empty($_GET['id'])) 
 {
@@ -9,7 +10,7 @@ if(!empty($_GET['id']))
 }
 else
 {
-    header("location: index.php");
+    header("location: cargos.php");
 }
 
 if(!empty($_POST))
@@ -17,10 +18,10 @@ if(!empty($_POST))
 	$id = $_POST['id'];
 	try 
 	{
-		$sql = "DELETE FROM categorias WHERE id_categoria = ?";
+		$sql = "DELETE FROM cargos WHERE id_cargo = ?";
 	    $params = array($id);
 	    Database::executeRow($sql, $params);
-	    header("location: index.php");
+	    header("location: cargos.php");
 	} 
 	catch (Exception $error) 
 	{
@@ -28,11 +29,13 @@ if(!empty($_POST))
 	}
 }
 ?>
+<div class="center-block">
 <form method='post' class='row'>
 	<input type='hidden' name='id' value='<?php print($id); ?>'/>
-	<button type='submit' class='btn red'><i class='material-icons right'>check_circle</i>Si</button>
-	<a href='index.php' class='btn grey'><i class='material-icons right'>cancel</i>No</a>
+	<button type='submit' class='btn btn-danger'><i class='glyphicon glyphicon-remove'></i>Si</button>
+	<a href='index.php' class='btn btn-primary'><i class='glyphicon glyphicon-ok'></i>No</a>
 </form>
+</div>
 <?php
 Page::footer();
 ?>
