@@ -1,7 +1,7 @@
 <?php
 require("../pagina.php");
 require("../procesos/database.php");
-Page::header("Cargos");
+Page::header('Cargos');
 ?>
 <!-- Estructura del formulario -->
 <?php
@@ -19,25 +19,28 @@ else
 $data = Database::getRows($sql, $params);
 if($data != null)
 {
-	$tabla = 	"<table class='centered striped'>
+	$tabla = 	"
+	<div class='container-fluid'>
+	<table class='col-md-6 table-striped'>
 					<thead>
 			    		<tr>
-				    		<th>Cargo</th>
+				    		<th>Cargos</th>
 			    		</tr>
 		    		</thead>
 		    		<tbody>";
 		foreach($data as $row)
 		{
 	        $tabla .=	"<tr>
-	            			<td>$row[cargos]</td>
-	            			<td>
-	            				<a href='save.php?id=$row[id_cargo]' class='btn btn-primary'><i class=''>edit</i></a>
-								<a href='delete.php?id=$row[id_cargo]' class='btn btn-primary'><i class=''>delete</i></a>
+	            			<td class='tabla'>$row[cargos]</td>
+	            			<td class='tabla'>
+	            				<a href='save.php?id=$row[Id_cargo]' class='btn btn-primary'><i class=''>edit</i></a>
+								<a href='delete.php?id=$row[Id_cargo]' class='btn btn-danger'><i class=''>delete</i></a>
 							</td>
 	        			</tr>";
 		}
 		$tabla .= 	"</tbody>
-    			</table>";
+    			</table>
+    			</div>";
 	print($tabla);
 }
 else

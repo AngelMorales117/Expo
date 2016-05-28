@@ -16,7 +16,7 @@ class Page
 			    <meta name="author" content="Dashboard">
 			    <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
 
-			    <title>Cargos</title>
+			    <title>Dashboard - $title</title>
 
 			    <!-- Bootstrap core CSS -->
 			    <link href="../assets/css/bootstrap.css" rel="stylesheet">
@@ -63,8 +63,8 @@ class Page
 		          <div id="sidebar"  class="nav-collapse ">
 		              <!-- sidebar menu start-->
 		              <ul class="sidebar-menu" id="nav-accordion">
-		              
-		                  <h5 class="centered">Miguel Cumi</h5>
+			              
+		                  <h5 class="centered">$_SESSION["nombrePersonal"] </h5>
 		                    
 		                  <li class="mt">
 		                      <a class="active" href="dashboard.php">
@@ -148,9 +148,9 @@ class Page
 	  	print($header);
   		if($sesion)
   		{
-  			if($filename != "login.php")
+  			if($filename != "index.php")
   			{
-  				print("<h3>$title</h3>");
+  				print("<h3 class='titulo'>$title</h3>");
   			}
   			else
   			{
@@ -180,7 +180,7 @@ class Page
 				      <!--footer start-->
 				      <footer class="site-footer">
 				          <div class="text-center">
-				              2014 - Alvarez.is
+				              2014 -RAGE.is
 				              <a href="form_component.html#" class="go-top">
 				                  <i class="fa fa-angle-up"></i>
 				              </a>
