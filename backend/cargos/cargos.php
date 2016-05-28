@@ -8,12 +8,12 @@ Page::header("Cargos");
 if(!empty($_POST))
 {
 	$search = trim($_POST['buscar']);
-	$sql = "SELECT * FROM categorias WHERE nombre_categoria LIKE ? ORDER BY nombre_categoria";
+	$sql = "SELECT * FROM cargos WHERE cargos LIKE ? ORDER BY cargos";
 	$params = array("%$search%");
 }
 else
 {
-	$sql = "SELECT * FROM categorias ORDER BY nombre_categoria";
+	$sql = "SELECT * FROM cargos ORDER BY cargos";
 	$params = null;
 }
 $data = Database::getRows($sql, $params);
@@ -29,7 +29,7 @@ if($data != null)
 		foreach($data as $row)
 		{
 	        $tabla .=	"<tr>
-	            			<td>$row[cargo]</td>
+	            			<td>$row[cargos]</td>
 	            			<td>
 	            				<a href='save.php?id=$row[id_cargo]' class='btn btn-primary'><i class=''>edit</i></a>
 								<a href='delete.php?id=$row[id_cargo]' class='btn btn-primary'><i class=''>delete</i></a>
