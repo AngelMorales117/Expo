@@ -10,6 +10,9 @@ td.tabla{
   padding-bottom: 3px;
 }
 
+.unespacio{
+  margin-left: 28px;
+}
 .titulo{
   margin-left: 33%;
 }

@@ -3,7 +3,22 @@ require("../pagina.php");
 require("../procesos/database.php");
 Page::header('Cargos');
 ?>
-<!-- Estructura del formulario -->
+<form method='post' class='row'>
+	<div class="row">
+  	<div class='col-md-1 unespacio'>
+		<a href='save.php' class='btn btn-success'><i class='glyphicon glyphicon-plus'></i>Nuevo</a>
+  	</div>
+  	</div><br>
+  	<div class="col-md-12">
+	<div class=' col-md-2'>
+      	<i class='glyphicon glyphicon-search'></i>
+      	<input id='buscar' type='text' name='buscar' class='validate'/>
+      	<label for='buscar'>Búsqueda</label>
+    </div><br>
+    <div class='col-md-8'>
+    	<button type='submit' class='btn btn-primary'><i class='glyphicon glyphicon-ok'></i>Aceptar</button> 	
+  	</div></div>
+</form>
 <?php
 if(!empty($_POST))
 {
