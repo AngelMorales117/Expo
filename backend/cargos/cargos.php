@@ -15,7 +15,7 @@ Page::header('Cargos');
       	<input id='buscar' type='text' name='buscar' class='validate'/>
       	<label for='buscar'>Búsqueda</label>
     </div><br>
-    <div class='col-md-8'>
+    <div class='col-md-offset-3'>
     	<button type='submit' class='btn btn-primary'><i class='glyphicon glyphicon-ok'></i>Aceptar</button> 	
   	</div></div>
 </form>
